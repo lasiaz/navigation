@@ -1,4 +1,4 @@
 navigation
 ==========
 
-easy navigation
++easy navigation
